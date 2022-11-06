@@ -1,0 +1,5 @@
+Problem Statement : Now a days the lack of concentration is not just another thing but it is a major problem to be looked upon. The prevalance of dyslexiais estimated to be between 5% to 17% of School-age children in India.Solution : The solution we are providing is an android app which will be having section for getting information about animals in which further we will
+have sections about particular animals moreover we will have additional sections about quizes and rhymes.
+How it works : The main aim of our product is to make the immerssive experience for the children to understand about the animals by personally interacting with them also we can listen to the information about the animals in indian accent English also in Hindi.
+What's unique about us : All these things could be same with any other pre existing solution but the main difference is that our product provides the facility of both hearing and listening which would help the students suffering from dyslexia to not just understand the subject but also to get cured from this disease. As this disease requires the involvement of more than 1 senses to get cured.
+
