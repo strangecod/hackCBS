@@ -1,5 +1,18 @@
-Problem Statement : Now a days the lack of concentration is not just another thing but it is a major problem to be looked upon. The prevalance of dyslexiais estimated to be between 5% to 17% of School-age children in India.Solution : The solution we are providing is an android app which will be having section for getting information about animals in which further we will
-have sections about particular animals moreover we will have additional sections about quizes and rhymes.
-How it works : The main aim of our product is to make the immerssive experience for the children to understand about the animals by personally interacting with them also we can listen to the information about the animals in indian accent English also in Hindi.
-What's unique about us : All these things could be same with any other pre existing solution but the main difference is that our product provides the facility of both hearing and listening which would help the students suffering from dyslexia to not just understand the subject but also to get cured from this disease. As this disease requires the involvement of more than 1 senses to get cured.
+# Ek Prayass
 
+## Problem Statement
+Most of the times children loose their interest in academics because of some reading slump or they find it boring just going through the text. Dyslexia is one of the learning disorder that effects atmost 17% of school aged children in INDIA causing reading disability and difficulty in Learning.
+
+## Solution 
+ Our Solution, Ek Prayass,  provides an experience of a virtual learning environment for young kids such that on scanning any respective image of the animal, it will augment the 3D model of it along with their description. It will also have a voice-over of the information that is available in both Hindi and English, rhymes and games at one place which will boost the imagination of the children to understand the concepts through their visualization and listening power rather than just seeing it on books.
+ 
+## Resources
+
+- [Presentation Slides](https://www.canva.com/design/DAFRIepQDJs/LOVsaW2VEHLbkMw6SGPXrg/edit?utm_content=DAFRIepQDJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Team Name - Quad
+
+- [@ambuj](https://www.github.com/ambuj-1211)
+- [@anany](https://www.github.com/strangecod)
+- [@astha](https://www.github.com/AsthaVarshney99)
+- [@nikita](https://www.github.com/Nikita0331)
