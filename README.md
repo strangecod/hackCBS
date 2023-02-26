@@ -7,6 +7,8 @@ Most of the times children loose their interest in academics because of some rea
  
 ## Resources
 
-- (Presentation)https://www.canva.com/design/DAFRIepQDJs/LOVsaW2VEHLbkMw6SGPXrg/edit?utm_content=DAFRIepQDJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- (Presentation)
+https://www.canva.com/design/DAFRIepQDJs/LOVsaW2VEHLbkMw6SGPXrg/view?utm_content=DAFRIepQDJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Team Name - Amazes
