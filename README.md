@@ -4,4 +4,4 @@
 
 
 
-## Team Name - Amazes
+## Download Learnings.apk from the above file
